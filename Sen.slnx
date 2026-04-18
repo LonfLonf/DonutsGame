@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Sen/Sen.vcxproj" Id="c45a10d9-12f1-43ba-a0ea-032eb7828d94" />
+</Solution>
